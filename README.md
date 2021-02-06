@@ -1,0 +1,1 @@
+# algorith-for-bouce-of-and-if-touching
